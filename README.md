@@ -1,0 +1,2 @@
+# projetoStrata
+Projeto Strata
