@@ -1,0 +1,8 @@
+{
+    "bracketPairColorizer.forceIterationColorCycle": true,
+    "bracketPairColorizer.forceUniqueOpeningColor": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "html.format.indentInnerHtml": true,
+    "debug.javascript.autoAttachFilter": "always"
+}
